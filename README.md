@@ -1,7 +1,7 @@
-# s3d - S3 Deploy
+# s3d: S3 Deploy
 ## Description
 
-Deploy all files and directories to S3.
+Deploy all files and directories to S3 for static website hosting.
 
 S3にファイルを上げて静的サイトとして公開するだけなら、そのためのサービスやら何やら使わなくても、シェルでいーんじゃねーの、と思って作った。
 一々新たな技術を身に付ける必要が生じる現代のWeb開発にムシャクシャしているのも作った理由として大きい。
